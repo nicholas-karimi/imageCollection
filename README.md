@@ -1,4 +1,4 @@
-# imageCollection
+b# imageCollection
 
 > A simple python app used for image collections.
 
@@ -15,9 +15,9 @@ Clone the repo `git clonehttps://github.com/nicholas-karimi/imageCollection.git`
     Create a virtualenv
     ##Linux - `python3 -m venv venv
     ## Windows - `virtualenv env`
-    > `pipenv shell` or convert **Pipfile and **Piplock to requirements.txt and run;
+    > `pipenv shell` or convert **Pipfile and **Piplock to requirements.txt and run;<br />
     > `pip install -r requirements.txt`
 ## TO DO
-[] Design Landing Page
-[] Add Edit/Delete Feature
-[] Add user authentication
+[] Design Landing Page <br />
+[] Add Edit/Delete Feature <br />
+[] Add user authentication<br />
